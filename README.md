@@ -41,7 +41,7 @@ This software is distributed under the GPLv3 (GNU General Public License, versio
 
 ## Contributions and Issue Reporting
 
-We welcome contributions from the open-source community. If you'd like to contribute or report issues, please visit the [project's GitHub repository](https://github.com/tuoreo/search-files) and open an "Issue" or submit a "Pull Request."
+We welcome contributions from the open-source community. If you'd like to contribute or report issues, please visit the [project's GitHub repository](https://github.com/elektronoide/search-files) and open an "Issue" or submit a "Pull Request."
 
 ![Screenshot 2023-10-10 010141](https://github.com/elektronoide/Search-Files/assets/134635227/38323e14-de56-4f27-9f02-460cb7550e5a)
 
