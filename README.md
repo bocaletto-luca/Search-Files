@@ -42,3 +42,11 @@ This software is distributed under the GPLv3 (GNU General Public License, versio
 ## Contributions and Issue Reporting
 
 We welcome contributions from the open-source community. If you'd like to contribute or report issues, please visit the project and open an "Issue" or submit a "Pull Request."
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
